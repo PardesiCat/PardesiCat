@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PardesiCat/PardesiCat/develop/img/Pardesicat.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Loading">
+<img src="https://raw.githubusercontent.com/PardesiCat/PardesiCat/main/img/Pardesicat.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Loading">
 
 <p align="left"> 
   <strong>Namaste</strong>
