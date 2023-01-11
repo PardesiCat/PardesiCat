@@ -1,9 +1,12 @@
 <img src="https://raw.githubusercontent.com/PardesiCat/PardesiCat/main/img/Pardesicat.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Loading">
 
+<p align="middle">
+<strong> _/\_ Namaste _/\_</strong>
+</p>
+
 <p align="left"> 
-  <strong>Namaste</strong>
    <br> I'm <strong>Pardesi_Cat</strong> A linux lover and open-source enthusiast.
-   <br> You can basically i translate open-source projets in to <strong>Indian Bengali</strong>
+   <br> Essentially, I translate open-source projects into  <strong>India's Bengali</strong> language.
 </p>
 
 <p align="left">
