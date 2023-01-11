@@ -6,7 +6,7 @@
 
 <p align="left"> 
    <br> I'm <strong>Pardesi_Cat</strong> A linux lover and open-source enthusiast.
-   <br> You can basically i translate open-source projets in to <strong>Indian Bengali</strong>
+   <br> Essentially, I translate open-source projects into  <strong>India's Bengali</strong> language.
 </p>
 
 <p align="left">
